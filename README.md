@@ -80,11 +80,4 @@ Experience the project interactively through the Streamlit web application:
 
 ---
 
-## How to Use
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/fraud-detection.git
-   cd fraud-detection
 
